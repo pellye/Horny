@@ -7,3 +7,8 @@ Recommended use instructions:
 3. Assign a key/combo to the shortcut (Prob don't bind it to enter, but I won't stop you)
 
 Now you have HornyOnDemand set up!
+
+
+This was an idea from my friend Dan. He wrote a python script for this that barely worked so I just re-wrote it but in html with 1/10000th the file size (probably). 
+
+(yeah he bullied me to credit him smh. hes still a cutie tho <3)
