@@ -1,4 +1,4 @@
-# Horny
+# HornyOnDemand
 Literally just a meme script to open e621 with a optional (prob recommended) confirmation screen.
 
 Recommended use instructions:
