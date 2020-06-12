@@ -1,5 +1,5 @@
 # HornyOnDemand
-Literally just a meme script to open e621 with a optional (prob recommended) confirmation screen.
+Literally just a joke "script" to open e621 with a optional confirmation screen.
 
 Recommended use instructions:
 1. Download horny.html or horny_confirm.html (or both if you are really just that horny)
